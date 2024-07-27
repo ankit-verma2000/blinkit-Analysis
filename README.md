@@ -1,15 +1,20 @@
 > # **blink-it Analysis**
-Power BI Project
+ Power BI Project ![image](https://github.com/user-attachments/assets/67441a58-168a-437a-952a-a12b89d4549c)
+
 ---------------------------------------------------
 ![image](https://github.com/user-attachments/assets/c6c0039c-bbb1-436f-bfb3-1e755cc217d2)
 
 ----------------------------------------------------
-> # **Business Requirements:**
+> # 📜**Business Requirements:**
 
 Conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using KPIs and Visualization using Tableau or Power BI.
 ---------------------------------------------------
-
-> # **KPI's Requirements:**
+> # 📌**Dataset information:**
+|Metrics|
+|:-----|
+|Item fat content| 
+---------------------------------------------------
+> # 🗝**KPI's Requirements:**
 
 |Metrics|Description|
 |:-----|:-----|
@@ -18,11 +23,11 @@ Conduct a comprehensive analysis of Blinkit's sales performance, customer satisf
 |Average sales| The Average customer rating for items sold|
 |number of Items| The total count of different items sold|
 ---------------------------------------------------
-> # **Tools used:**
+> # 📊**Tools used:**📈📉
 Power BI
 ---------------------------------------------------
 
-> # **Questions Answered:**
+> # 🏷**Questions Answered:**
 Q1. Total sales by Item Types
 Q2. Total sales by Fat content
 Q3. Total sales by Outlet for total sales
