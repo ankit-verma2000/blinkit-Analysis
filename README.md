@@ -32,16 +32,22 @@ Conduct a comprehensive analysis of Blinkit's sales performance, customer satisf
 |Average sales| The Average customer rating for items sold|
 |number of Items| The total count of different items sold|
 ---------------------------------------------------
-> # 📊**Tools used:**📈📉
+> # 📊**Tools used:** 📈📉
 Power BI
 ---------------------------------------------------
 
 > # 🏷**Questions Answered:**
 Q1. Total sales by Item Types
+
 Q2. Total sales by Fat content
+
 Q3. Total sales by Outlet for total sales
+
 Q4. Total sales by outlet establishment
+
 Q5. Sales by outlet type
+
 Q6. Sales by Outlet Location
+
 Q7. All metrics by Outlet type
 ----------------------------------------------------
