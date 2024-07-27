@@ -1,18 +1,27 @@
-> # **blink-it Analysis**
- Power BI Project ![image](https://github.com/user-attachments/assets/67441a58-168a-437a-952a-a12b89d4549c)
-
 ---------------------------------------------------
 ![image](https://github.com/user-attachments/assets/c6c0039c-bbb1-436f-bfb3-1e755cc217d2)
-
+---------------------------------------------------
+> # **blink-it Analysis**
+ Power BI Project
 ----------------------------------------------------
 > # 📜**Business Requirements:**
 
 Conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization using KPIs and Visualization using Tableau or Power BI.
 ---------------------------------------------------
 > # 📌**Dataset information:**
-|Metrics|
+|Features|
 |:-----|
 |Item fat content| 
+|Item Identifier|
+|Item Type|
+|Outlet Establishment|
+|Outlet Identifier|
+|Outlet Location Type|
+|Outlet Size|
+|Item Visibilty|
+|Item Weight|
+|Sales|
+|Rating|
 ---------------------------------------------------
 > # 🗝**KPI's Requirements:**
 
